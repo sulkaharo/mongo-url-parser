@@ -1,6 +1,6 @@
 {
   "name": "mongo-url-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "parse mongodb connection strings.",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,12 @@
     "url": "https://github.com/sulkaharo/mongo-url-parser"
   },
   "author": "Sulka Haro <sulka@sulka.net> based on work from Eduardo Sorribas <eduardo@sorribas.org> (http://sorribas.org/)",
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "url",
+    "parser"
+  ],
   "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/sulkaharo/mongo-url-parser/issues"
